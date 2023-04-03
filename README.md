@@ -1,0 +1,3 @@
+◦I have worked with 4 students on this project and we did it in my third year of college.
+◦This is a web application for the Pos at an apple store
+◦It was created in Intellij (Jakarta EE) we also used Javascript, HTML, CSS, Bootstrap, and for the database I used Mysql.
